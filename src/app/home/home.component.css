@@ -1,0 +1,42 @@
+.full{
+  height: 100vh;
+  background-size: cover;
+  background-image: url("http://somaisumepisodio.com.br/wp-content/uploads/2018/04/5300544.jpg-r_2000_1000-f_jpg-q_x-xxyxx.jpg");
+}
+
+
+.home{
+  left:50%;
+  top:50%;
+  margin-left:-100px; /* Metade do valor da Largura */
+  margin-top:-265px; /* Metade da valor da Altura */
+  position:absolute;
+  width:334px; /* Valor da Largura */
+  height:450px; /* Valor da Altura */
+  background: black;
+  color:#fff;
+  border: red;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 10px;
+}
+
+.botao{
+
+  width: 60px;
+  height: 60px;
+  background: #323232;
+  color: #FFFFFF;
+  margin-left: 20px;
+  font-size: large;
+
+}
+
+#tela{
+  font-size: 1.8em;
+  size: A3;
+  color: #fd1506;
+  margin-bottom: 10px;
+  background: whitesmoke;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
